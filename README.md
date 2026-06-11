@@ -35,6 +35,10 @@ The project is designed for banking, finance, and lending analytics purposes.
 
 # 📂 Dashboard Visuals
 
+## 📷 Dashboard Preview
+
+<img src="./loan-approval-dashboard.png" alt="Loan Approval Dashboard" width="1000"/>
+
 ## 1️⃣ KPI Cards
 Displays:
 - Total Applications
@@ -44,7 +48,7 @@ Displays:
 - Approval Rate %
 
 <img src="./kpi-card.png" width="1000"/>
-````
+
 
 
 ---
@@ -58,7 +62,7 @@ Shows distribution of:
 * Low Risk Applicants
 
 <img src="./donut-chart-risk-level.png" alt="Donut Chart Risk Level" width="1000"/>
-```
+
 
 ---
 
@@ -71,7 +75,7 @@ Represents total requested loan amount based on:
 * Review
 
 <img src="./bar-chart-loan-decision.png" alt="Bar Chart Loan Decision" width="1000"/>
-```
+
 
 ---
 
@@ -84,7 +88,7 @@ Analyzes relationship between:
 * Loan Decision
 
 <img src="./scatter-chart-credit-loan.png" alt="Scatter Chart Credit Score vs Loan Amount" width="1000"/>
-```
+
 
 ---
 
@@ -98,7 +102,7 @@ Displays contribution of:
   towards total loan amount.
 
 <img src="./waterfall-chart-loan-flow.png" alt="Waterfall Chart Loan Flow" width="1000"/>
-```
+
 
 ---
 
@@ -111,7 +115,7 @@ Contains:
 * Annual Income
 
 <img src="./applicant-summary-table.png" alt="Applicant Summary Table" width="1000"/>
-```
+
 
 ---
 
@@ -124,7 +128,7 @@ Interactive slicers used:
 * Remarks
 
 <img src="./dashboard-slicers.png" alt="Dashboard Slicers" width="1000"/>
-```
+
 
 ---
 
@@ -158,11 +162,6 @@ Interactive slicers used:
 * Real-time banking analytics integration
 
 ---
-
-# 📷 Dashboard Preview
-
-<img src="./loan-approval-dashboard.png" alt="Loan Approval Dashboard" width="1000"/>
-```
 
 ---
 
