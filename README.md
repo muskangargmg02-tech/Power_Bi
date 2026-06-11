@@ -1,8 +1,6 @@
-# Loan Approval Dashboard – GitHub README
-
-````markdown
+---
 # 📊 Loan Approval Dashboard – Power BI
-
+---
 ## 📌 Overview
 This Power BI dashboard provides insights into loan approval analysis using applicant financial and risk-related information.  
 The dashboard helps analyze:
@@ -13,7 +11,7 @@ The dashboard helps analyze:
 - Approval & rejection trends
 
 The project is designed for banking, finance, and lending analytics purposes.
-
+---
 ---
 
 # 🚀 Features
@@ -34,7 +32,6 @@ The project is designed for banking, finance, and lending analytics purposes.
 - Financial Analytics
 - Business Intelligence
 
----
 
 # 📂 Dashboard Visuals
 
