@@ -59,7 +59,7 @@ Shows distribution of:
 * Medium Risk
 * Low Risk Applicants
 
-<img src="images/donut-chart-risk-level.png" alt="Donut Chart Risk Level" width="1000"/>
+<img src="./donut-chart-risk-level.png" alt="Donut Chart Risk Level" width="1000"/>
 ```
 
 ---
