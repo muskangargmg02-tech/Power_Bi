@@ -38,13 +38,6 @@ The project is designed for banking, finance, and lending analytics purposes.
 
 # 📂 Dashboard Visuals
 
----
-
-# 📷 Dashboard Preview
-
-<img src="./loan-approval-dashboard.png" alt="Loan Approval Dashboard" width="1000"/>
-```
-
 ## 1️⃣ KPI Cards
 Displays:
 - Total Applications
@@ -53,9 +46,9 @@ Displays:
 - Average Credit Score
 - Approval Rate %
 
-```
-<img src="./kpi-card.png" alt="Kpi Card" width="1000"/>
-```
+<img src="./kpi-card.png" width="1000"/>
+````
+
 
 ---
 
@@ -166,6 +159,13 @@ Interactive slicers used:
 * Branch-wise performance tracking
 * Drill-through applicant reports
 * Real-time banking analytics integration
+
+---
+
+# 📷 Dashboard Preview
+
+<img src="./loan-approval-dashboard.png" alt="Loan Approval Dashboard" width="1000"/>
+```
 
 ---
 
