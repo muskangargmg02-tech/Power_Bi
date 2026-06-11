@@ -46,7 +46,7 @@ Displays:
 - Average Credit Score
 - Approval Rate %
 
-<img src="/.kpi-card.png" alt="KPI Cards" width="1000"/>
+<img src="./kpi-card.png" width="1000"/>
 ````
 
 ---
