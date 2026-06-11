@@ -38,6 +38,13 @@ The project is designed for banking, finance, and lending analytics purposes.
 
 # 📂 Dashboard Visuals
 
+---
+
+# 📷 Dashboard Preview
+
+<img src="./loan-approval-dashboard.png" alt="Loan Approval Dashboard" width="1000"/>
+```
+
 ## 1️⃣ KPI Cards
 Displays:
 - Total Applications
@@ -46,8 +53,9 @@ Displays:
 - Average Credit Score
 - Approval Rate %
 
-<img src="./kpi-card.png" width="1000"/>
-````
+```
+<img src="./kpi-card.png" alt="Kpi Card" width="1000"/>
+```
 
 ---
 
@@ -72,7 +80,7 @@ Represents total requested loan amount based on:
 * Rejected
 * Review
 
-<img src="images/bar-chart-loan-decision.png" alt="Bar Chart Loan Decision" width="1000"/>
+<img src="./bar-chart-loan-decision.png" alt="Bar Chart Loan Decision" width="1000"/>
 ```
 
 ---
@@ -85,7 +93,7 @@ Analyzes relationship between:
 * Loan Amount Requested
 * Loan Decision
 
-<img src="images/scatter-chart-credit-loan.png" alt="Scatter Chart Credit Score vs Loan Amount" width="1000"/>
+<img src="./scatter-chart-credit-loan.png" alt="Scatter Chart Credit Score vs Loan Amount" width="1000"/>
 ```
 
 ---
@@ -99,7 +107,7 @@ Displays contribution of:
 * Review Loans
   towards total loan amount.
 
-<img src="images/waterfall-chart-loan-flow.png" alt="Waterfall Chart Loan Flow" width="1000"/>
+<img src="./waterfall-chart-loan-flow.png" alt="Waterfall Chart Loan Flow" width="1000"/>
 ```
 
 ---
@@ -112,7 +120,7 @@ Contains:
 * Applicant Name
 * Annual Income
 
-<img src="images/applicant-summary-table.png" alt="Applicant Summary Table" width="1000"/>
+<img src="./applicant-summary-table.png" alt="Applicant Summary Table" width="1000"/>
 ```
 
 ---
@@ -125,7 +133,7 @@ Interactive slicers used:
 * Risk Level
 * Remarks
 
-<img src="images/dashboard-slicers.png" alt="Dashboard Slicers" width="1000"/>
+<img src="./dashboard-slicers.png" alt="Dashboard Slicers" width="1000"/>
 ```
 
 ---
@@ -158,13 +166,6 @@ Interactive slicers used:
 * Branch-wise performance tracking
 * Drill-through applicant reports
 * Real-time banking analytics integration
-
----
-
-# 📷 Dashboard Preview
-
-<img src="images/loan-approval-dashboard.png" alt="Loan Approval Dashboard" width="1000"/>
-```
 
 ---
 
